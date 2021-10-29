@@ -1,12 +1,9 @@
-// import React from 'react';
-// import
+import React from 'react';
 
-// class SolarSystem extends React.Component {
-//   render() {
-//     return (
-//     <div></div>
-//         );
-//   }
-// }
+class SolarSystem extends React.Component {
+  render() {
+    return (<div data-testid="solar-system" />);
+  }
+}
 
-// export default SolarSystem;
+export default SolarSystem;
